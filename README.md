@@ -1,1 +1,1 @@
-# sagemaker-prototyping
+# SageMakerを用いたプロトタイピングの参考情報をまとめたリポジトリです
